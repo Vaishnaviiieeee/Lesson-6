@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f2f2f2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    padding: 40px 60px;
+    border: 1px solid #ccc;
+}
+
+.card h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    margin: 0 0 10px 0;
+}
+
+.card p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0;
+}
+
+.card a {
+    text-decoration: underline;
+    color: inherit;
+}
